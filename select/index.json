@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Stupid hero",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-03-25T05:19:19.729376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "STUPID HERO",
+      "artist": "PEDRO",
+      "has_synced": true,
+      "path": "select/01_STUPID_HERO_PEDRO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Be Stupid (You Know I Love You)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/02_Don't_Be_Stupid_(You_Know_I_Love_You)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stupid",
+      "artist": "Levi Hummon",
+      "has_synced": true,
+      "path": "select/03_Stupid_Levi_Hummon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stupid Girl",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/04_Stupid_Girl_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stupid Girl (Dreadzone Dub Version) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Dreadzone",
+      "has_synced": false,
+      "path": "select/05_Stupid_Girl_(Dreadzone_Dub_Version)_(_2015_-_Remaster)_Garbage_feat._Dreadzone.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stupid Girl (Dreadzone - Dub Version)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/06_Stupid_Girl_(Dreadzone_-_Dub_Version)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stupid Girl (Dreadzone Vocal Mix) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Dreadzone",
+      "has_synced": false,
+      "path": "select/07_Stupid_Girl_(Dreadzone_Vocal_Mix)_(_2015_-_Remaster)_Garbage_feat._Dreadzone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stupid Girl (Dreadzone - Vocal Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/08_Stupid_Girl_(Dreadzone_-_Vocal_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stupid Girl (Jason Bentley & Bruno Guez Shoegazer Mix/Remastered)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/09_Stupid_Girl_(Jason_Bentley_&_Bruno_Guez_Shoegazer_Mix_Remastered)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stupid Girl (Jason Bentley & Bruno Guez - Shoegazer Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/10_Stupid_Girl_(Jason_Bentley_&_Bruno_Guez_-_Shoegazer_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stupid Girl (Rabbit in the Moon - Future Retro Mix) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Rabbit In The Moon",
+      "has_synced": false,
+      "path": "select/11_Stupid_Girl_(Rabbit_in_the_Moon_-_Future_Retro_Mix)_(_2015_-_Remaster)_Garbage_feat._Rabbit_In_The_Moon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stupid Girl (Rabbit In The Moon - Future Retro Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/12_Stupid_Girl_(Rabbit_In_The_Moon_-_Future_Retro_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stupid Girl (Red Snapper Mix) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Red Snapper",
+      "has_synced": false,
+      "path": "select/13_Stupid_Girl_(Red_Snapper_Mix)_(_2015_-_Remaster)_Garbage_feat._Red_Snapper.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stupid Girl (Red Snapper Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/14_Stupid_Girl_(Red_Snapper_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stupid Girl (Todd Terry - Tee's Freeze Club) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Todd Terry",
+      "has_synced": false,
+      "path": "select/15_Stupid_Girl_(Todd_Terry_-_Tee's_Freeze_Club)_(_2015_-_Remaster)_Garbage_feat._Todd_Terry.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stupid Girl (Todd Terry - Tee's Freeze Club)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/16_Stupid_Girl_(Todd_Terry_-_Tee's_Freeze_Club)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stupid Girl (Todd Terry - Tee's In-House Dub) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Todd Terry",
+      "has_synced": false,
+      "path": "select/17_Stupid_Girl_(Todd_Terry_-_Tee's_In-House_Dub)_(_2015_-_Remaster)_Garbage_feat._Todd_Terry.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Stupid Girl (Todd Terry - Tee’s In-House Dub)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/18_Stupid_Girl_(Todd_Terry_-_Tee’s_In-House_Dub)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Stupid Girl (Todd Terry - Tee's Radio Mix) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Todd Terry",
+      "has_synced": true,
+      "path": "select/19_Stupid_Girl_(Todd_Terry_-_Tee's_Radio_Mix)_(_2015_-_Remaster)_Garbage_feat._Todd_Terry.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Stupid Girl (Todd Terry - Tee’s Radio Mix)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/20_Stupid_Girl_(Todd_Terry_-_Tee’s_Radio_Mix)_Garbage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stupid hero",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_Stupid_hero_Mr.Children.txt"
+    }
+  ]
+}
